@@ -1,0 +1,1 @@
+We're going to learn how to use git
